@@ -1,0 +1,15 @@
+{
+  "name": "el-dragtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.11",
+    "express": "^4.17.1"
+  }
+}
