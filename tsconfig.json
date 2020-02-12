@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "ES6",
         "module": "ES2015",
-        "outDir": "compiledJS",
+        "outDir": "compiled",
         "sourceMap": true
     },
     "exclude": [
